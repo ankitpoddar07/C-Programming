@@ -1,0 +1,10 @@
+===== WINE INVENTORY REPORT =====
+
+ID      Name                     Type      Origin         Year  Price     Qty     
+--------------------------------------------------------------------------------
+W1      SULA                     red       A              1990  5000.00   60      
+
+===== SUMMARY =====
+Total unique wines: 1
+Total bottles in stock: 60
+Total inventory value: $300000.00
