@@ -75,9 +75,6 @@ This project is for **educational purposes only**. Feel free to fork, use, and i
 
 ## 🙋‍♂️ Author
 
-**Ankit Poddar**  
 🧑‍💻 Passionate about C++, Python, and building real-world solutions.
 
 ---
-=======
->>>>>>> 52a03e46a3cd289c77d80ae08446f8d4b4560460
