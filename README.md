@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 # 💻 C & C++ Projects by Ankit Poddar
+=======
+# 💻 C & C++ Projects 
+>>>>>>> 52a03e46a3cd289c77d80ae08446f8d4b4560460
 
 🚀 A curated collection of beginner to intermediate level C and C++ projects. Perfect for college submissions, personal learning, and sharpening programming logic.
 
@@ -59,6 +63,7 @@
 # Windows PowerShell
 g++ address-book.cpp -o address-book
 ./address-book
+<<<<<<< HEAD
 ```
 
 ---
@@ -79,3 +84,5 @@ This project is for **educational purposes only**. Feel free to fork, use, and i
 🧑‍💻 Passionate about C++, Python, and building real-world solutions.
 
 ---
+=======
+>>>>>>> 52a03e46a3cd289c77d80ae08446f8d4b4560460
