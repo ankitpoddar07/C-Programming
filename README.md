@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-
-# 💻 C & C++ Projects by Ankit Poddar
-=======
 # 💻 C & C++ Projects 
->>>>>>> 52a03e46a3cd289c77d80ae08446f8d4b4560460
 
 🚀 A curated collection of beginner to intermediate level C and C++ projects. Perfect for college submissions, personal learning, and sharpening programming logic.
 
